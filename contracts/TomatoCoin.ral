@@ -1,0 +1,19 @@
+import "std/fungible_token_interface"
+
+Contract TomatoCoin() implements IFungibleToken {
+  pub fn getTotalSupply() -> U256 {
+      return 100000
+  }
+
+  pub fn getSymbol() -> ByteVec {
+      return b`tmt`
+  }
+
+  pub fn getName() -> ByteVec {
+      return b`TomatoCoin`
+  }
+
+  pub fn getDecimals() -> U256 {
+      return 2
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "fullNodeVersion": "v3.6.2",
+  "compilerOptionsUsed": {
+    "ignoreUnusedConstantsWarnings": false,
+    "ignoreUnusedVariablesWarnings": false,
+    "ignoreUnusedFieldsWarnings": false,
+    "ignoreUnusedPrivateFunctionsWarnings": false,
+    "ignoreUpdateFieldsCheckWarnings": false,
+    "ignoreCheckExternalCallerWarnings": false,
+    "ignoreUnusedFunctionReturnWarnings": false
+  },
+  "infos": {
+    "IFungibleToken": {
+      "sourceFile": "..\\node_modules\\@alephium\\web3\\std\\fungible_token_interface.ral",
+      "sourceCodeHash": "62910bf11e1eeb6cb2fd468626ff606a9b06306b2b81590c3b10f6deb5966bde",
+      "bytecodeDebugPatch": "",
+      "codeHashDebug": ""
+    },
+    "TomatoCoin": {
+      "sourceFile": "TomatoCoin.ral",
+      "sourceCodeHash": "0905c55e4e6e25369d5521de542d8942a03011b0ae359245a7e07bfcbc347067",
+      "bytecodeDebugPatch": "",
+      "codeHashDebug": "287b6672c462e1565543750210353d9115aadd8d46608356fbc3f99307610d75"
+    }
+  }
+}
